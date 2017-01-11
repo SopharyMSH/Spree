@@ -31,3 +31,4 @@ group :development do
 end
 
 gem 'spree_address_book', github: 'spree-contrib/spree_address_book', branch: '3-1-stable'
+gem 'spree_static_content', github: 'spree-contrib/spree_static_content'
