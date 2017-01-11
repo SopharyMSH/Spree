@@ -1,0 +1,1 @@
+Spree::PermittedAttributes.user_attributes.push [:username, :account_confirmed, spree_addresses_attributes: [:firstname, :lastname, :address1, :address2, :city, :zipcode, :phone, :state_name, :alternative_phone, :company, :state_id, :country_id]]
