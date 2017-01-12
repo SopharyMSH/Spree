@@ -15,6 +15,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'spree', '~> 3.1.0'
 gem 'spree_auth_devise', git: "git://github.com/spree/spree_auth_devise"
 gem 'spree_gateway', '~> 3.1.0'
+gem 'pry'
 
 
 group :development, :test do
